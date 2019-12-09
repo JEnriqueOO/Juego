@@ -1,0 +1,80 @@
+html {
+
+    height:100%;
+	width:100%;
+
+    }
+	
+	#audio{
+display: none
+}
+
+body { 
+
+	background-image: url(imagenes/f3.jpg);
+	background-size:100% 100%;
+	}
+
+h1{
+	text-align: center;
+	color:black;
+	font-family: Georgia;
+	font-weight: bold;
+	background-color:  #eddb56 ;
+	border-radius: 10px 10px 10px 10px;
+}
+.left{
+    float: left;
+	color:white;
+	font-family: Georgia;
+	font-weight: bold;
+	
+}
+.right{
+    float: right;
+	color:white;
+	font-family: Georgia;
+	font-weight: bold;
+}
+.center{
+    width:150px;
+	color:white;
+	font-family: Georgia;
+	font-weight: bold;
+    margin:0 auto;
+}
+
+.desarrollador{
+    float: left;
+	color:black;
+	font-family: Georgia;
+	font-weight: bold;
+	font-size:15px;
+	background-color:  #b6ae77 ;
+	text-align:center;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.player{
+	float: right;
+	color:black;
+	font-family: Georgia;
+	font-weight: bold;
+	font-size:15px;
+	font-size:20;
+	background-color:  #b6ae77 ;
+	text-align:center;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.maquina{
+    width:150px;
+	color:black;
+	font-family: Georgia;
+	font-weight: bold;
+	font-size:15px;
+    margin:0 auto;
+	background-color:  #b6ae77 ;
+	text-align:center;
+	border-radius: 10px 10px 10px 10px;
+}
